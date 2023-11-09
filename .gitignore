@@ -1,2 +1,3 @@
 public/files
 .env
+node_modules/
